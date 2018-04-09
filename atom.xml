@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yyxp Island</title>
+  
+  <subtitle>Hello , welcome to the yyxp island!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yingyxp.com/"/>
+  <updated>2018-04-05T04:51:57.968Z</updated>
+  <id>http://yingyxp.com/</id>
+  
+  <author>
+    <name>fangying</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎大佬们</title>
+    <link href="http://yingyxp.com/2018/04/05/%E6%AC%A2%E8%BF%8E%E5%A4%A7%E4%BD%AC%E4%BB%AC/"/>
+    <id>http://yingyxp.com/2018/04/05/欢迎大佬们/</id>
+    <published>2018-04-05T04:51:57.000Z</published>
+    <updated>2018-04-05T04:51:57.968Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
