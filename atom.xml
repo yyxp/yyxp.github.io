@@ -54,9 +54,9 @@
     <link href="http://yingyxp.com/2020/03/05/Web%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E5%A4%84%E7%90%86%E6%80%BB%E7%BB%93/"/>
     <id>http://yingyxp.com/2020/03/05/Web中文字体处理总结/</id>
     <published>2020-03-04T19:28:19.000Z</published>
-    <updated>2020-03-04T20:57:13.902Z</updated>
+    <updated>2020-03-04T21:39:19.904Z</updated>
     
-    <content type="html"><![CDATA[<p style="width:60%;max-width:800px;margin:0 auto;"><img src="/2020/03/05/Web中文字体处理总结/webchinesefont.png"></p><h1 id="Web-中文字体处理总结"><a href="#Web-中文字体处理总结" class="headerlink" title="Web 中文字体处理总结"></a>Web 中文字体处理总结</h1><h2 id="背景介绍"><a href="#背景介绍" class="headerlink" title="背景介绍"></a>背景介绍</h2><p>Web 项目中，使用一个合适的字体能给用户带来良好的体验。但是字体文件太多，如果想要查看字体效果，只能一个个打开，非常影响工作效率。因此，需要实现一个功能，能够根据固定文字以及用户输入预览字体。在实现这一功能的过程中主要解决两个问题：  </p><ul><li>中文字体体积太大导致加载时间过长</li><li>字体加载完成前不展示预览内容</li></ul><p>现在将问题的解决以及我的思考总结成文。</p><p>…</p><p style="color:#0096ff;">详情见传送门</p><blockquote><p>传送门：</p><ul><li><a href="https://aotu.io/" target="_blank" rel="noopener">凹凸实验室</a></li><li><a href="https://aotu.io/notes/2020/02/28/webfont-processing/" target="_blank" rel="noopener">Web 中文字体处理总结</a></li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<p style="width:60%;max-width:800px;margin:0 auto;"><img src="/2020/03/05/Web中文字体处理总结/webchinesefont.png"></p><h2 id="背景介绍"><a href="#背景介绍" class="headerlink" title="背景介绍"></a>背景介绍</h2><p>Web 项目中，使用一个合适的字体能给用户带来良好的体验。但是字体文件太多，如果想要查看字体效果，只能一个个打开，非常影响工作效率。因此，需要实现一个功能，能够根据固定文字以及用户输入预览字体。在实现这一功能的过程中主要解决两个问题：  </p><ul><li>中文字体体积太大导致加载时间过长</li><li>字体加载完成前不展示预览内容</li></ul><p>现在将问题的解决以及我的思考总结成文。</p><p>…</p><p style="color:#0096ff;">详情见传送门</p><blockquote><p>传送门：</p><ul><li><a href="https://aotu.io/" target="_blank" rel="noopener">凹凸实验室</a></li><li><a href="https://aotu.io/notes/2020/02/28/webfont-processing/" target="_blank" rel="noopener">Web 中文字体处理总结</a></li></ul></blockquote>]]></content>
     
     <summary type="html">
     
@@ -64,7 +64,7 @@
       
         &lt;p style=&quot;width:60%;max-width:800px;margin:0 auto;&quot;&gt;&lt;img src=&quot;/2020/03/05/Web中文字体处理总结/webchinesefont.png&quot;&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;Web-中文字体处理总结&quot;&gt;&lt;a hre
+&lt;h2 id=&quot;背景介绍&quot;&gt;&lt;a href=&quot;#背景介绍
       
     
     </summary>
